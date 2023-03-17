@@ -2731,7 +2731,7 @@
     (property "Value" "NJM2360AD" (at 101.6 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (at 100.33 82.55 0)
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket" (at 100.33 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://led-parts.com/pdf/njm2360.pdf" (at 101.6 80.01 0)
